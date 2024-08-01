@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "Samba",
+        "Address": "Kunaparajuparva",
+        "City": "Krishna",
+        "Country": "India",
+        "Pincode": "521215",
+        "SAT score": 87.0,
+        "Passed": "Pass"
+    },
+    {
+        "Name": "Madhavi",
+        "Address": "Mundur",
+        "City": "Eluru",
+        "Country": "india",
+        "Pincode": "534007",
+        "SAT score": 72.0,
+        "Passed": "Pass"
+    },
+    {
+        "Name": "Lax",
+        "Address": "asd",
+        "City": "adf",
+        "Country": "fdfe",
+        "Pincode": "ef",
+        "SAT score": 32.0,
+        "Passed": "Pass"
+    },
+    {
+        "Name": "sai",
+        "Address": "sas",
+        "City": "sas",
+        "Country": "sas",
+        "Pincode": "sas",
+        "SAT score": 20.0,
+        "Passed": "Fail"
+    }
+]
